@@ -1,0 +1,4 @@
+CREATE TABLE table(
+   field1   VARCHAR(x),
+   field2   VARCHAR(x)
+);
